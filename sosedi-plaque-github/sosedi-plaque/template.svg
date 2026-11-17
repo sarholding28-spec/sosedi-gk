@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1378" height="855" viewBox="0 0 1378 855">
+<title>Табличка дома «Соседи»</title>
+<style>
+  text { font-family: 'Montserrat', 'Open Sans', sans-serif; }
+  .title { font-size: 66px; font-weight: 700; fill: #0B3024; }
+  .area { font-size: 64px; font-weight: 700; fill: #0B3024; }
+  .section { font-size: 37px; font-weight: 700; fill: #0B3024; }
+  .body { font-size: 31px; font-weight: 400; fill: #191818; }
+</style>
+<image id="fixed-art" x="0" y="0" width="1378" height="855" xlink:href="assets/base.png"/>
+<g id="plan">
+  <image x="71" y="40" width="572" height="670" preserveAspectRatio="xMidYMid meet" xlink:href="assets/plan-example.png"/>
+</g>
+<g id="copy">
+<text x="709" y="137" class="title" textLength="315" lengthAdjust="spacingAndGlyphs">1 комната</text>
+<text x="1191" y="142" class="area" text-anchor="middle" textLength="222" lengthAdjust="spacingAndGlyphs">43.8 м²</text>
+<text x="720" y="252" class="section" >Для кого:</text>
+<text x="720" y="294" class="body" >Квартира Анны, у которой всё</text>
+<text x="720" y="331" class="body" >по плану: утром кофе на лоджии,</text>
+<text x="720" y="368" class="body" >днём дела в центре, вечером</text>
+<text x="720" y="405" class="body" >прогулка по набережной.</text>
+<text x="720" y="442" class="body" >И никаких лишних поездок</text>
+<text x="720" y="479" class="body" >через весь город.</text>
+<text x="722" y="578" class="section" >Преимущества:</text>
+<text x="728" y="624" class="body" >–</text>
+<text x="763" y="624" class="body" >просторная комната 20,1 м²</text>
+<text x="728" y="665" class="body" >–</text>
+<text x="763" y="665" class="body" >отдельная кухня</text>
+<text x="728" y="706" class="body" >–</text>
+<text x="763" y="706" class="body" >лоджия с выходом из кухни</text>
+</g>
+</svg>
